@@ -54,7 +54,7 @@ Parameters that can be used (can be passed to the app server as GET query params
 
 nodejs is a prerequisite, please install it before this from here https://nodejs.org/
 ```
-git clone git@github.com:jperelli/osm-static-maps.git
+git clone https://github.com/jperelli/osm-static-maps.git
 cd osm-static-maps
 npm install
 npm start
